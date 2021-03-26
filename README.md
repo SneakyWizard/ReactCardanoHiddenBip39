@@ -5,7 +5,7 @@ It scrambles and randomizes a bip39 24 word key.
 Scramble your Cardano Daedalus key.  
 
 ## How to install?
-git clone  
+git clone https://github.com/SneakyWizard/ReactCardanoHiddenBip39.git
 cd ReactCardanoHiddenBip39  
 npm install -f 
 
