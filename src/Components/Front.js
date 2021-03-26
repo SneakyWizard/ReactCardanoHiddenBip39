@@ -10,7 +10,7 @@ const TableExampleCelledStriped = () => (
     </Table.Header>
     <Table.Body>
       <Table.Row>
-        <Table.Cell collapsing textAlign='left'>Will not allow duplicate words.</Table.Cell>
+        <Table.Cell collapsing textAlign='left'>This will not allow duplicate words.</Table.Cell>
       </Table.Row>
       <Table.Row>
         <Table.Cell collapsing textAlign='left'>Do NOT trust sites running this page.</Table.Cell>
@@ -22,13 +22,16 @@ const TableExampleCelledStriped = () => (
         <Table.Cell collapsing textAlign='left'>It&apos;s purpose allows backups of private bip39 keys.</Table.Cell>
       </Table.Row>
       <Table.Row>
-        <Table.Cell collapsing textAlign='left'>Scramble and randomize bip39 words.&nbsp;&nbsp;The proceeding grid table.</Table.Cell>
-      </Table.Row>
-      <Table.Row>
         <Table.Cell collapsing textAlign='left'>Download and use offline only.&nbsp;&nbsp;Keep your internet disconnected.</Table.Cell>
       </Table.Row>
       <Table.Row>
-        <Table.Cell collapsing textAlign='left'>After the cryptogram has been created.&nbsp;&nbsp;Reveal the cipher text.&nbsp;&nbsp;Print and store in a secure place.</Table.Cell>
+        <Table.Cell collapsing textAlign='left'>Scramble and randomize bip39 words.&nbsp;&nbsp;In the proceeding grid table.</Table.Cell>
+      </Table.Row>
+      <Table.Row>
+        <Table.Cell collapsing textAlign='left'>After the cryptogram has been created.&nbsp;&nbsp;Reveal the cipher key.&nbsp;&nbsp;Write it down.</Table.Cell>
+      </Table.Row>
+      <Table.Row>
+        <Table.Cell collapsing textAlign='left'>Print the cryptogram only, and store in a secure place seperate from your cipher key.</Table.Cell>
       </Table.Row>
     </Table.Body>
   </Table>

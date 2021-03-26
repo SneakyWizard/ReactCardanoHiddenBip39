@@ -83,19 +83,19 @@ function App() {
 
 	// Input before the table render.  Also includes a simple semantic-ui layout.
 	function tagInput() {
-		return ( 
+		return (
 			<>
 				<Popup />
 				<div style={{ display:"flex", minHeight:"100vh", flexDirection:"column" }}>
 					<div style={{ flex:1 }}>
 						<Container text>
 							<Header as='h3'>&nbsp;</Header>
-							<Header as='h1' className='word-space'>BIP39 CRYPTOGRAM MAKER</Header>
+							<Header as='h1' className='word-space'>BIP39 CRYPTOGRAM GENERATOR</Header>
 							<Front />
 							<ReactTags ref={reactTags} tags={tags} suggestions={suggestions} placeholderText={placeholderText} onDelete={del} onAddition={add} />
 						</Container>
 					</div>
-					<span><small><i><b>Version 1.0.2021</b></i></small></span>
+					<span><small><i><b>Version 1.0.1</b></i></small></span>
 				</div>
 			</>
 		)
