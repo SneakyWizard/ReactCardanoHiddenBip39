@@ -20,4 +20,6 @@ Print only the cryptogram and writing down the cipher key.
 ## If you see a site running this DO NOT USE!!!!!!
 You have been warned.
 
+## Example.
+![alt text](example.gif)
 
