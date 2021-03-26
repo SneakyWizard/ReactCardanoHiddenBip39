@@ -1,7 +1,8 @@
 # BIP39 CRYPTOGRAM GENERATOR
 
 ## What does this do?
-It scrambles and randomizes a bip39 24 word key.  Scramble your Cardano Daedalus key.  
+It scrambles and randomizes a bip39 24 word key.  
+Scramble your Cardano Daedalus key.  
 
 ## How to install?
 git clone  
@@ -17,7 +18,6 @@ Follow all possible security measures such as running this on a live linux.
 Print only the cryptogram and writing down the cipher key.  
 
 ## If you see a site running this DO NOT USE!!!!!!
-
-## You have been warned.
+You have been warned.
 
 
