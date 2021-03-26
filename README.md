@@ -10,6 +10,7 @@ cd ReactCardanoHiddenBip39
 npm install -f 
 
 ## How to run?
+disconnect from the internet  
 npm start
 
 ## Use at your own risk.
