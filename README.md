@@ -2,7 +2,7 @@
 
 ## What does this do?
 It scrambles and randomizes a bip39 24 word key.  
-Scramble your Cardano Daedalus key.  
+Scramble your Cardano Daedalus key.  Every cryptogram is unique.    
 
 ## How to install?
 On a bootable live linux and while connected to the internet  
