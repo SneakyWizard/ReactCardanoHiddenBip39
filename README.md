@@ -12,7 +12,7 @@ Symlink the extracted:  ln -s node-v15.12.0-linux-x64 nodejs
 Set your path:  export PATH=$HOME/nodejs/bin:$PATH  
 npm install -g yarn  
 git clone https://github.com/SneakyWizard/ReactCardanoHiddenBip39.git  
-cd ReactCardanoHiddenBip39 
+cd ReactCardanoHiddenBip39  
 yarn install  
 
 ## How to run?
