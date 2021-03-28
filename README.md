@@ -7,8 +7,8 @@ Scramble your Cardano Daedalus key.
 ## How to install?
 On a bootable live linux and while connected to the internet  
 Install latest nodejs with npm from  https://nodejs.org  
-Extract the .tar.xz file.  tar xvf node-v15.12.0-linux-x64.tar.xz
-Symlink the extracted folder, example:  ln -s node-v15.12.0-linux-x64 nodejs  
+Extract:  tar xvf node-v15.12.0-linux-x64.tar.xz  
+Symlink the extracted:  ln -s node-v15.12.0-linux-x64 nodejs  
 Set your path:  export PATH=$HOME/nodejs/bin:$PATH  
 npm install -g yarn  
 git clone https://github.com/SneakyWizard/ReactCardanoHiddenBip39.git  
