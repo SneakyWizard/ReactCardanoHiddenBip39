@@ -17,6 +17,7 @@ cd ReactCardanoHiddenBip39
 yarn install  
 
 ## How to run?
+disconnect from the inet  
 yarn start  
 
 ## Use at your own risk.
