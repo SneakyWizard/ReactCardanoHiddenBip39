@@ -17,9 +17,9 @@ cd ReactCardanoHiddenBip39
 yarn install  
 
 ## How to run?
-Disconnect from the internet.   
-export NODE_OPTIONS=--openssl-legacy-provider
-yarn start  
+1.  Disconnect from the internet.   
+2.  export NODE_OPTIONS=--openssl-legacy-provider
+3.  yarn start  
 
 ## Use at your own risk.
 Follow the rules by not being online when this is ran.  
